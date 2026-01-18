@@ -168,3 +168,10 @@ There could be other corner cases that is not covered by this implementation.
 
 This implementation uses bubble sort for simplicity, which has O(n<sup>2</sup>) time complexity. For very large strings, you might want to use a more efficient sorting algorithm. However, for educational purposes and moderate-sized inputs, this implementation works well.
 
+## References
+
+- **[Burrows-Wheeler Transform (BWT)](https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform)**
+
+- **[GNAT](https://en.wikipedia.org/wiki/GNAT)**
+
+- **[Ada](https://en.wikipedia.org/wiki/Ada_(programming_language))**
