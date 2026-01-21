@@ -1,5 +1,5 @@
 -- ***************************************************************************
---                 Burrows-Wheeler Transform
+--             Index based Burrows-Wheeler Transform
 --
 --           Copyright (C) 2026 By Ulrik Hørlyk Hjort
 --
